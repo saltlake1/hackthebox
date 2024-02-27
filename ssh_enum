@@ -1,0 +1,9 @@
+ssh commands.
+Once we get access to user via ssh,
+we run the below command.
+
+ss -tln
+socket statistics
+-l: Display only listening sockets.
+-t: Display TCP sockets.
+-n: Do not try to resolve service names.
