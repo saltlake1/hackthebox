@@ -1,0 +1,6 @@
+when we are not provided with web page when we requested http://x.x.x.x, Then in command line we can see results using curl.Correct?
+When you request a URL like http://x.x.x.x using a web browser or curl and the server does not provide a webpage in response .
+you will typically see some form of error message or diagnostic information in the command line output.
+
+Basically you will get some idea whats heppening
+u ll see some o/p in cmd line n may troubleshoot accordingly.
