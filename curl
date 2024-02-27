@@ -6,6 +6,7 @@ Basically you will get some idea whats heppening
 u ll see some o/p in cmd line n may troubleshoot accordingly.
 
 syn: curl -v http://$ip
+-v for verbosity
 
 example
 curl -v http://10.129.1.27
